@@ -1,0 +1,123 @@
+[
+  {
+    "url": "https://www.anapioficeandfire.com/api/books/1",
+    "name": "A Game of Thrones",
+    "isbn": "978-0553103540",
+    "authors": [
+      "George R. R. Martin"
+    ],
+    "numberOfPages": 694,
+    "publisher": "Bantam Books",
+    "country": "United States",
+    "mediaType": "Hardcover",
+    "released": "1996-08-01T00:00:00",
+    "characters": [
+      "https://www.anapioficeandfire.com/api/characters/2",
+
+      "https://www.anapioficeandfire.com/api/characters/1814",
+      "https://www.anapioficeandfire.com/api/characters/1815",
+      "https://www.anapioficeandfire.com/api/characters/1816",
+      "https://www.anapioficeandfire.com/api/characters/1818",
+
+      "https://www.anapioficeandfire.com/api/characters/1964",
+      "https://www.anapioficeandfire.com/api/characters/1967",
+      "https://www.anapioficeandfire.com/api/characters/1971",
+      "https://www.anapioficeandfire.com/api/characters/1973",
+      "https://www.anapioficeandfire.com/api/characters/1974",
+      "https://www.anapioficeandfire.com/api/characters/2097",
+      "https://www.anapioficeandfire.com/api/characters/2109",
+      "https://www.anapioficeandfire.com/api/characters/2111",
+      "https://www.anapioficeandfire.com/api/characters/2116",
+      "https://www.anapioficeandfire.com/api/characters/2122",
+      "https://www.anapioficeandfire.com/api/characters/2126"
+    ],
+    "povCharacters": [
+      "https://www.anapioficeandfire.com/api/characters/148",
+      "https://www.anapioficeandfire.com/api/characters/208",
+      "https://www.anapioficeandfire.com/api/characters/232",
+      "https://www.anapioficeandfire.com/api/characters/583",
+      "https://www.anapioficeandfire.com/api/characters/957",
+      "https://www.anapioficeandfire.com/api/characters/1022",
+      "https://www.anapioficeandfire.com/api/characters/1052",
+      "https://www.anapioficeandfire.com/api/characters/1295",
+      "https://www.anapioficeandfire.com/api/characters/1303",
+      "https://www.anapioficeandfire.com/api/characters/1319"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/books/3",
+    "name": "A Storm of Swords",
+    "isbn": "978-0553106633",
+    "authors": [
+      "George R. R. Martin"
+    ],
+    "numberOfPages": 992,
+    "publisher": "Bantam Books",
+    "country": "United States",
+    "mediaType": "Hardcover",
+    "released": "2000-10-31T00:00:00",
+    "characters": [
+      "https://www.anapioficeandfire.com/api/characters/2",
+      "https://www.anapioficeandfire.com/api/characters/3",
+
+      "https://www.anapioficeandfire.com/api/characters/73",
+      "https://www.anapioficeandfire.com/api/characters/77",
+      "https://www.anapioficeandfire.com/api/characters/78",
+
+      "https://www.anapioficeandfire.com/api/characters/1682",
+      "https://www.anapioficeandfire.com/api/characters/1683",
+      "https://www.anapioficeandfire.com/api/characters/1684",
+      "https://www.anapioficeandfire.com/api/characters/1685",
+      "https://www.anapioficeandfire.com/api/characters/1688",
+      "https://www.anapioficeandfire.com/api/characters/1692",
+      "https://www.anapioficeandfire.com/api/characters/1695",
+      "https://www.anapioficeandfire.com/api/characters/1696",
+      "https://www.anapioficeandfire.com/api/characters/1697",
+      "https://www.anapioficeandfire.com/api/characters/1700",
+      "https://www.anapioficeandfire.com/api/characters/1701",
+      "https://www.anapioficeandfire.com/api/characters/1703",
+      "https://www.anapioficeandfire.com/api/characters/1704",
+      "https://www.anapioficeandfire.com/api/characters/1706",
+      "https://www.anapioficeandfire.com/api/characters/1708",
+      "https://www.anapioficeandfire.com/api/characters/1709",
+      "https://www.anapioficeandfire.com/api/characters/1713",
+      "https://www.anapioficeandfire.com/api/characters/1715",
+      "https://www.anapioficeandfire.com/api/characters/1727",
+      "https://www.anapioficeandfire.com/api/characters/1729",
+      "https://www.anapioficeandfire.com/api/characters/1730"
+    ],
+    "povCharacters": [
+      "https://www.anapioficeandfire.com/api/characters/148",
+      "https://www.anapioficeandfire.com/api/characters/208",
+      "https://www.anapioficeandfire.com/api/characters/232",
+      "https://www.anapioficeandfire.com/api/characters/529",
+      "https://www.anapioficeandfire.com/api/characters/583",
+      "https://www.anapioficeandfire.com/api/characters/751",
+      "https://www.anapioficeandfire.com/api/characters/954",
+      "https://www.anapioficeandfire.com/api/characters/957",
+      "https://www.anapioficeandfire.com/api/characters/1052",
+      "https://www.anapioficeandfire.com/api/characters/1267",
+      "https://www.anapioficeandfire.com/api/characters/1303",
+      "https://www.anapioficeandfire.com/api/characters/1319"
+    ]
+  },
+  {
+    "url": "https://www.anapioficeandfire.com/api/books/4",
+    "name": "The Hedge Knight",
+    "isbn": "978-0976401100",
+    "authors": [
+      "George R. R. Martin"
+    ],
+    "numberOfPages": 164,
+    "publisher": "Dabel Brothers Publishing",
+    "country": "United States",
+    "mediaType": "GraphicNovel",
+    "released": "2005-03-09T00:00:00",
+    "characters": [
+      "https://www.anapioficeandfire.com/api/characters/2130"
+    ],
+    "povCharacters": [
+      "https://www.anapioficeandfire.com/api/characters/329"
+    ]
+  }
+]
